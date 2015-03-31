@@ -1,2 +1,10 @@
 C:\Users\pi\Desktop\fg\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
 C:\Users\pi\Documents\GitHub\vj4g1z\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\pi\Documents\GitHub\vj4g1z\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\pi\Documents\GitHub\vj4g1z\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\pi\Documents\GitHub\vj4g1z\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\pi\Documents\GitHub\vj4g1z\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmLoto.resources
+C:\Users\pi\Documents\GitHub\vj4g1z\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\pi\Documents\GitHub\vj4g1z\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\pi\Documents\GitHub\vj4g1z\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\pi\Documents\GitHub\vj4g1z\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
