@@ -44,16 +44,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmGlavna.cs">
+    <Compile Include="FrmLoto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmGlavna.Designer.cs">
-      <DependentUpon>FrmGlavna.cs</DependentUpon>
+    <Compile Include="FrmLoto.Designer.cs">
+      <DependentUpon>FrmLoto.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FrmGlavna.resx">
-      <DependentUpon>FrmGlavna.cs</DependentUpon>
+    <EmbeddedResource Include="FrmLoto.resx">
+      <DependentUpon>FrmLoto.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
